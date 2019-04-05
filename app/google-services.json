@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "783754671916",
+    "firebase_url": "https://pariwisata-erporate.firebaseio.com",
+    "project_id": "pariwisata-erporate",
+    "storage_bucket": "pariwisata-erporate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783754671916:android:09b462bf4125b7b2",
+        "android_client_info": {
+          "package_name": "com.nanangrustianto.pariwisata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6BBTZr4mxSPVp2S5xrI85zuO8dY0Wgdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783754671916-r13k33gefdk5hfv2575t8r1ief00vgr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
